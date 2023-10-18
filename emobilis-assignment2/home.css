@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+}
+
+.pisa1 img {
+  padding: 40px;
+}
+.pisaa1 img {
+  height: 195px;
+  width: 200px;
+  padding-top: 120px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding-top: 120px;
+}
+#pisaa2 {
+  height: 295px;
+  width: 249px;
+}
+.pisa1 {
+  display: flex;
+}
+
+#pisaa3 img {
+  height: 200px;
+  width: 250px;
+}
+
+#six {
+  font-weight: 100%;
+}
+.oga {
+  display: flex;
+  padding-left: 100px;
+}
+#ogapic {
+  height: 195px;
+  width: 200px;
+  border-radius: 30px;
+  border: none;
+}
+.pictures2 {
+  padding-right: 30px;
+}
+.sec1 {
+  font-size: 40px;
+}
+#sec2 {
+  font-weight: bolder;
+}
+
+#sec3 {
+  font-weight: bold;
+  color: rgb(255, 255, 255); /* Set the text color with transparency */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6), -2px -2px 4px rgba(0, 0, 0, 0.6);
+}
+.sec4,
+.sec5,
+.sec6,
+.sec7 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

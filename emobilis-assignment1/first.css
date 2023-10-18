@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+}
+
+#paragraph {
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.bw-iframe {
+  filter: grayscale(100%);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+
+#loc {
+  flex: 0.5;
+}
+
+.name,
+.email,
+.textarea,
+.submit {
+  padding: 5px;
+}
+input,
+textarea,
+button {
+  font-size: 110%;
+  background-color: #201d27;
+  color: white;
+
+  padding: 20px;
+}
+input,
+textarea {
+  border: none;
+  border-radius: 20px;
+}
+.location {
+  padding-left: 50px;
+}
+.submit {
+  cursor: pointer;
+}
+.submit:hover {
+  font-size: 40px;
+  color: lightgray;
+}
+button {
+  border-radius: 120px;
+  padding: 15px 45px 20px 45px;
+  font-size: 15px;
+}
